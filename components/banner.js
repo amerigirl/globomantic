@@ -5,7 +5,7 @@ const subtitleStyle = {
   fontStyle: "italic",
   fontSize: "x-large",
   color: "coral",
-};
+}
 
 const Banner = ({children}) => {
   return (
